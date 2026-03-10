@@ -1,16 +1,119 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer portfolio built with **React and Tailwind CSS** to showcase projects, technical skills, and academic background.
 
-Currently, two official plugins are available:
+The goal of this portfolio is to present my work clearly and professionally for internships, junior developer roles, and collaborative opportunities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Project
 
-## React Compiler
+Featured Project: **Whisper Wall**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Whisper Wall is an anonymous expression platform that allows users to share thoughts freely without revealing their identity.
 
-## Expanding the ESLint configuration
+Live Demo
+https://whisper-wall-theta.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+This portfolio was built using modern frontend technologies:
+
+* React
+* Vite
+* Tailwind CSS
+* Framer Motion
+* Lucide React Icons
+
+---
+
+## Features
+
+* Clean and modern UI
+* Fully responsive layout
+* Project showcase section
+* Featured project highlighting
+* Smooth animations and transitions
+* Organized component structure
+
+## Featured Project
+
+### Whisper Wall
+
+Whisper Wall is a platform that allows people to express themselves anonymously in a simple and safe environment.
+
+Key features:
+
+* Anonymous message posting
+* Responsive interface built with Tailwind CSS
+* Backend powered by Supabase
+
+Tech stack used:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Supabase
+
+Live Project
+https://whisper-wall-theta.vercel.app
+
+## Getting Started
+
+Clone the repository:
+
+```
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+```
+
+Navigate into the project:
+
+```
+cd YOUR_REPO_NAME
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Start the development server:
+
+```
+npm run dev
+```
+
+The project will run locally at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## Project Structure
+
+```
+src
+ ├── components
+ ├── data
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+The application is structured using reusable React components to keep the codebase clean and scalable.
+
+## Author
+
+Idowu Abdulquadri Olamide
+
+Computer Science Student
+Afe Babalola University
+Graduating 2027
+
+Email
+[idowuabdulquadri7@gmail.com](mailto:idowuabdulquadri7@gmail.com)
+
+## License
+
+This project is open source and available under the MIT License.
