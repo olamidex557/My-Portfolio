@@ -12,10 +12,10 @@ const portfolio = {
     "Frontend Focused",
   ],
   skills: {
-    Frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    Backend: ["Node.js", "Express"],
-    Database: ["MongoDB", "MySQL", "PostgreSQL"],
-    Tools: ["Git", "GitHub", "Figma", "Vercel"],
+    Frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS","Next.js"],
+    Backend: ["Node.js"],
+    Database: ["Supabase"],
+    Tools: ["Git", "GitHub", "Vercel"],
   },
   projects: [
     {
